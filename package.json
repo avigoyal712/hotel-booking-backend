@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon",
-    "start": "node ./index.ts"
+    "start": "node src/index.ts"
   },
   "author": "",
   "license": "ISC",
